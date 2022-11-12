@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d8bef0;
+    
+}
+
+#titleClass{
+    background-color: #a751ee;
+}
+
+#features{
+    margin: 0;
+    padding: 0;
+    background-color: #d8bef0;
+}
+
+.LoveSection{
+    background-color: #b072e2;
+}
+.LoveSection header{
+    font-size: 30px;
+}
+
+.btn:hover{
+    background-color: #dfe6e7;
+    color: black;
+}
+
+.titlehover:hover{
+    color: #c41eda;  
+}
+
+.InfoLoveLink:hover{
+    color: #0fe3ff;
+    background-color: #dfa9e9;
+}
+.card-footer{
+    background-color: #bd84ec;
+}
+.card-header{
+    background-color: #b072e2;
+}
+#PayCard{
+    background: #bee7f0;
+}
